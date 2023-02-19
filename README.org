@@ -1,10 +1,11 @@
 * Project 1 - Recursive Search
 
-*Last Name: Lin 
+* Last Name: Lin 
 
-*First Name: Patrick
+* First Name: Patrick
 
-*GitHub Username: Will160714
+* GitHub Username: Will160714
+
 * Due 2/27
 
 
