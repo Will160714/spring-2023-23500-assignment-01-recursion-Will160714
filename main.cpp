@@ -9,7 +9,7 @@ int main(){
                         {0,0,0,0,0}};
 
     print(board);    
-    solve(board, 2, 2, 1); 
+    solve(board, 2, 2, 1); //Starting point is the center
     return 0;
 }
 
