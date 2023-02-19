@@ -13,12 +13,20 @@ void print(int board[][5]){
     }
 }
 
-bool complete(int board[][5]){
+bool find(int board[][5], int num){
     for(int x = 0; x < 5; x++){
         for(int y = 0; y < 5; y++){
-            if(board[x][y] == 0)
-                return false;
+            if(board[x][y] == num)
+                return true;
         }
+    }
+    return false;
+}
+
+bool complete(int board[][5]){
+    for(int x = 1; x <= 25; x++){
+        if(!(find(board, x)))
+            return false;
     }
     return true;
 }
