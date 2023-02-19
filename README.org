@@ -1,6 +1,11 @@
 * Project 1 - Recursive Search
 
-* Due TBD
+*Last Name: Lin 
+
+*First Name: Patrick
+
+*GitHub Username: Will160714
+* Due 2/27
 
 
 
