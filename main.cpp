@@ -7,8 +7,9 @@ int main(){
                         {0,0,0,0,0},
                         {0,0,0,0,0},
                         {0,0,0,0,0}};
-    print(board);
-    solve(board, 0, 1, 0);
+
+    print(board);    
+    solve(board, 2, 2, 1); 
     return 0;
 }
 
